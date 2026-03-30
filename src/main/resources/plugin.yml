@@ -1,7 +1,7 @@
-name: EntityLimiter
-version: '1.5'
+name: ${name}
+version: ${version}
 main: jukerx.entitylimiter.EntityLimiter
-api-version: '1.13'
+api-version: ${apiVersion}
 load: STARTUP
 author: jukerx
 website: https://github.com/JuKerx/EntityLimiter

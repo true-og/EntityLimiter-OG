@@ -17,6 +17,11 @@ out/
 # BlueJ files
 *.ctxt
 
+# Eclipse files
+.classpath
+.project
+.settings/
+
 # Package Files #
 *.jar
 *.war
@@ -96,6 +101,8 @@ $RECYCLE.BIN/
 *.lnk
 
 target/
+build/
+.gradle/
 
 pom.xml.tag
 pom.xml.releaseBackup
